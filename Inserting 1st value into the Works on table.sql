@@ -1,0 +1,1 @@
+INSERT INTO works_on VALUES ('123456789',1, 32.5);

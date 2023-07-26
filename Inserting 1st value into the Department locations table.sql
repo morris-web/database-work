@@ -1,0 +1,1 @@
+INSERT INTO dept_locations VALUES (1,'Houston');

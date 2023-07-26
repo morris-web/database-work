@@ -1,0 +1,10 @@
+INSERT INTO dependent VALUES ('333445555','Theodore','M','25-OCT-73','Son');
+INSERT INTO dependent VALUES ('333445555','Joy','F','03-MAY-48','Spouse');
+INSERT INTO dependent VALUES ('987654321','Abner','M','29-FEB-32','Spouse');
+INSERT INTO dependent VALUES ('123456789','Michael','M','01-JAN-78','Son');
+INSERT INTO dependent VALUES ('123456789','Alice','F', '31-DEC-78','Daughter');
+INSERT INTO dependent VALUES ('123456789','Elizabeth','F','05-MAY-57','Spouse');
+INSERT INTO dependent VALUES ('444444400','Johnny','M','04-APR-1997','Son');
+INSERT INTO dependent VALUES ('444444400','Tommy','M','07-JUN-1999','Son');
+INSERT INTO dependent VALUES ('444444401','Chris','M','19-APR-1969','Spouse');
+INSERT INTO dependent VALUES ('444444402','Sam','M','14-FEB-1964','Spouse');

@@ -1,0 +1,1 @@
+INSERT INTO department VALUES ('Research', 5, '333445555', '22-MAY-78');

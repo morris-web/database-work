@@ -1,0 +1,1 @@
+UPDATE employee SET dno = 5 WHERE ssn = '333445555';
